@@ -14,3 +14,4 @@ I encountered syntax errors when using a <img> tag. I used the previous assignme
 ## Screenshot
 Include a screenshot of your component.
 I included a screenshot of my component using GitHub web interface.
+<img width="566" height="730" alt="image" src="https://github.com/user-attachments/assets/0bf5a474-07f2-4d0d-801b-74cb9deca3dd" />
